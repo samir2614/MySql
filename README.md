@@ -10,11 +10,7 @@ HOW TO INSTALL MYSQL ON CentOS
 -> Manage users and permissions
 -> Summary
 
-#Install the database server
-
-#Follow the steps in this section to install the core database server.
-
-#Install MySQL
+# Install MySQL
 
 Install the MySQL database through the CentOS package manager (yum) by running the following commands at a command prompt:
 
